@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/radhekr18757404" target="blank"><img src="https://img.shields.io/twitter/follow/radhekr18757404?logo=twitter&style=for-the-badge" alt="radhekr18757404" /></a> </p>
 
-- 🔭 I’m currently working on **Dsta visualisation**
+- 🔭 I’m currently working on **Data visualisation**
 
 - 🌱 I’m currently learning **Kaggle and data analytics with Numpy and ML models with AI and its applications , CP , DSA , backend integration , cyber security attacks and measures via python3 and OS Security .**
 
