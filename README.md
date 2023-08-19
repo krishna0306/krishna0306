@@ -3,7 +3,7 @@
 <h1 align="center">And Do check my recent data_analysis on Swiggy_restos in Delhi on Kaggle-https://www.kaggle.com/code/krishna0000007/swiggy-2023-delhi-analysis</h1>
 <h3 align="center">Beaware of Cookies !!!!!!!!!!!</h3>
 
-<img align="right" alt="Coding" width="1000" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="Coding" width="500" height="700 src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna0306&label=Profile%20views&color=0e75b6&style=flat" alt="krishna0306" /> </p>
 
